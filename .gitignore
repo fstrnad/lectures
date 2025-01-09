@@ -1,0 +1,15 @@
+# Files to ignore by git
+*.pyc
+*.sh
+*.npy
+
+# Paths to ignore
+.ipynb_checkpoints/
+.mypy_chache/
+.vscode/
+.pytest_cache/
+__pycache__
+
+time_series_lecture/weights/*
+# 03_cn/exercise_climnet_india solution.ipynb
+
